@@ -1,4 +1,4 @@
-# Kaviraj KR — Personal Portfolio
+# Kaviraj K R — Personal Portfolio
 
 Welcome to my personal portfolio repository.
 
