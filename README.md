@@ -1,4 +1,4 @@
-# Kaviraj K R — Personal Portfolio
+# Kaviraj KR — Personal Portfolio
 
 Welcome to my personal portfolio repository.
 
@@ -20,11 +20,11 @@ I'm always learning, experimenting, and looking for opportunities to improve my 
 
 ## 🛠️ Technologies
 
-- **Languages:** Python, JavaScript, Java, C, C++
-- **Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js
-- **Databases:** SQL, MongoDB
-- **Machine Learning:** Python, Scikit-learn, XGBoost
-- **Tools:** Git, GitHub, VS Code
+* **Languages:** Python, JavaScript, Java, C, C++
+* **Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js
+* **Databases:** SQL, MongoDB
+* **Machine Learning:** Python, Scikit-learn, XGBoost
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
@@ -34,8 +34,8 @@ I enjoy working on projects that combine **software development and practical pr
 
 Some of my projects include:
 
-- **Learning Management System** — A role-based learning platform with coding practice and personalized learning features.
-- **Diabetes Prediction** — A machine learning project for predicting diabetes using classification algorithms.
+* **Learning Management System** — A role-based learning platform with coding practice and personalized learning features.
+* **Diabetes Prediction** — A machine learning project for predicting diabetes using classification algorithms.
 
 More projects are available on my portfolio and GitHub.
 
@@ -43,18 +43,18 @@ More projects are available on my portfolio and GitHub.
 
 ## 🎯 Currently
 
-- Improving my software development skills
-- Building practical projects
-- Exploring new technologies
-- Learning and strengthening my problem-solving skills
+* Improving my software development skills
+* Building practical projects
+* Exploring new technologies
+* Learning and strengthening my problem-solving skills
 
 ---
 
 ## 🔗 Connect With Me
 
-- 🌐 **Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
-- 💼 **LinkedIn:** [Kaviraj KR](YOUR_LINKEDIN_URL)
-- 🐙 **GitHub:** [kaviraj-1718](https://github.com/kaviraj-1718)
+* 🌐 **Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
+* 💼 **LinkedIn:** [Kaviraj KR](https://www.linkedin.com/in/kaviraj18)
+* 🐙 **GitHub:** [kaviraj-1718](https://github.com/kaviraj-1718)
 
 ---
 
