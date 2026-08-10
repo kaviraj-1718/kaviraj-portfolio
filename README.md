@@ -1,59 +1,60 @@
-# Kaviraj KR — Personal Portfolio
+# Kaviraj K R — Personal Portfolio
 
-My personal portfolio website showcasing my skills, projects, education, and experience as a software developer.
+Welcome to my personal portfolio repository.
 
-🌐 **Live Website:** https://kaviraj-portfolio.vercel.app
+This website is a place where I showcase my journey, skills, projects, and interests in software development, web development, and machine learning.
+
+🌐 **Live Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
-I am a B.Tech graduate in Artificial Intelligence and Machine Learning with an interest in software development, web development, and machine learning.
+Hi, I'm **Kaviraj KR**, a B.Tech graduate in Artificial Intelligence and Machine Learning.
 
-I enjoy building practical projects, learning new technologies, and continuously improving my development skills.
+I enjoy building practical applications, exploring new technologies, and turning ideas into useful projects. I'm particularly interested in software development, web development, Python, and machine learning.
+
+I'm always learning, experimenting, and looking for opportunities to improve my technical and problem-solving skills.
 
 ---
 
 ## 🛠️ Technologies
 
-- Next.js
-- React.js
-- JavaScript
-- HTML
-- CSS
-- Git
-- GitHub
+- **Languages:** Python, JavaScript, Java, C, C++
+- **Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js
+- **Databases:** SQL, MongoDB
+- **Machine Learning:** Python, Scikit-learn, XGBoost
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Build
 
-### Automated Learning Management System
+I enjoy working on projects that combine **software development and practical problem-solving**.
 
-A web-based Learning Management System with Role-Based Access Control, designed to provide personalized learning experiences and coding practice.
+Some of my projects include:
 
-**Tech:** MERN Stack, JavaScript
+- **Learning Management System** — A role-based learning platform with coding practice and personalized learning features.
+- **Diabetes Prediction** — A machine learning project for predicting diabetes using classification algorithms.
 
-### Diabetes Prediction
-
-A machine learning project that predicts the likelihood of diabetes using various classification algorithms.
-
-**Tech:** Python, Machine Learning, XGBoost
+More projects are available on my portfolio and GitHub.
 
 ---
 
-## 🎓 Education
+## 🎯 Currently
 
-**B.Tech — Artificial Intelligence and Machine Learning**  
-Bannari Amman Institute of Technology
+- Improving my software development skills
+- Building practical projects
+- Exploring new technologies
+- Learning and strengthening my problem-solving skills
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-- LinkedIn: [Kaviraj KR](YOUR_LINKEDIN_URL)
-- GitHub: [kaviraj-1718](https://github.com/kaviraj-1718)
-- Portfolio: [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
+- 🌐 **Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
+- 💼 **LinkedIn:** [Kaviraj KR](YOUR_LINKEDIN_URL)
+- 🐙 **GitHub:** [kaviraj-1718](https://github.com/kaviraj-1718)
 
 ---
 
