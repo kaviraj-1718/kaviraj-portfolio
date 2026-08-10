@@ -1,0 +1,108 @@
+/* ===================== RESPONSIVE OVERRIDES ===================== */
+
+/* Hide/show helpers */
+@media (max-width: 768px) {
+  .hidden.md\:flex { display: none !important; }
+  .hidden.md\:block { display: none !important; }
+  .hidden.md\:inline-flex { display: none !important; }
+  .hidden.lg\:block { display: none !important; }
+}
+
+@media (min-width: 769px) {
+  .md\:flex { display: flex !important; }
+  .md\:block { display: block !important; }
+  .md\:inline-flex { display: inline-flex !important; }
+  .md\:hidden { display: none !important; }
+}
+
+@media (min-width: 1024px) {
+  .lg\:block { display: block !important; }
+}
+
+/* Hero section mobile */
+@media (max-width: 900px) {
+  #home > .container > div:first-child {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* About section mobile */
+@media (max-width: 860px) {
+  #about > .container > div:last-child {
+    grid-template-columns: 1fr !important;
+    gap: 40px !important;
+  }
+
+  #about > .container > div:last-child > div:last-child {
+    grid-template-columns: 1fr 1fr !important;
+  }
+}
+
+/* Projects section mobile — stack the split cards */
+@media (max-width: 768px) {
+  #projects .glass-card > div[style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+
+  #projects .glass-card > div > div:first-child {
+    border-right: none !important;
+    border-bottom: 1px solid rgba(99, 102, 241, 0.2);
+    padding: 32px 28px !important;
+  }
+
+  #projects .glass-card > div > div:last-child {
+    padding: 32px 28px !important;
+  }
+}
+
+/* Education timeline mobile */
+@media (max-width: 640px) {
+  #education .glass-card {
+    flex-direction: column !important;
+    gap: 16px !important;
+  }
+}
+
+/* Contact section mobile */
+@media (max-width: 900px) {
+  #contact > .container > div:last-child {
+    grid-template-columns: 1fr !important;
+    gap: 32px !important;
+  }
+}
+
+/* Contact form mobile — stack name/email */
+@media (max-width: 520px) {
+  #contact form > div[style*="grid-template-columns: 1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Footer mobile */
+@media (max-width: 640px) {
+  footer > .container > div:first-child {
+    flex-direction: column !important;
+    gap: 28px !important;
+  }
+}
+
+/* Skills grid mobile */
+@media (max-width: 640px) {
+  #skills > .container > div:last-child {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Certifications grid mobile */
+@media (max-width: 640px) {
+  #certifications > .container > div:last-child {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Achievements grid mobile */
+@media (max-width: 640px) {
+  #achievements > .container > div:last-child > div:last-child {
+    grid-template-columns: 1fr !important;
+  }
+}
