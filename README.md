@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kaviraj KR — Personal Portfolio
 
-## Getting Started
+My personal portfolio website showcasing my skills, projects, education, and experience as a software developer.
 
-First, run the development server:
+🌐 **Live Website:** https://kaviraj-portfolio.vercel.app
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👨‍💻 About
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I am a B.Tech graduate in Artificial Intelligence and Machine Learning with an interest in software development, web development, and machine learning.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I enjoy building practical projects, learning new technologies, and continuously improving my development skills.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Technologies
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
+- React.js
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 🚀 Featured Projects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Automated Learning Management System
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A web-based Learning Management System with Role-Based Access Control, designed to provide personalized learning experiences and coding practice.
+
+**Tech:** MERN Stack, JavaScript
+
+### Diabetes Prediction
+
+A machine learning project that predicts the likelihood of diabetes using various classification algorithms.
+
+**Tech:** Python, Machine Learning, XGBoost
+
+---
+
+## 🎓 Education
+
+**B.Tech — Artificial Intelligence and Machine Learning**  
+Bannari Amman Institute of Technology
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: [Kaviraj KR](YOUR_LINKEDIN_URL)
+- GitHub: [kaviraj-1718](https://github.com/kaviraj-1718)
+- Portfolio: [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
+
+---
+
+⭐ Thanks for visiting my repository!
