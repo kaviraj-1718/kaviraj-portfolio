@@ -1,10 +1,10 @@
-# Kaviraj KR — Personal Portfolio
+# Kaviraj K R — Personal Portfolio
 
 Welcome to my personal portfolio repository.
 
 This website is a place where I showcase my journey, skills, projects, and interests in software development, web development, and machine learning.
 
-🌐 **Live Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
+🌐 **Live Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app/)
 
 ---
 
@@ -15,6 +15,21 @@ Hi, I'm **Kaviraj KR**, a B.Tech graduate in Artificial Intelligence and Machine
 I enjoy building practical applications, exploring new technologies, and turning ideas into useful projects. I'm particularly interested in software development, web development, Python, and machine learning.
 
 I'm always learning, experimenting, and looking for opportunities to improve my technical and problem-solving skills.
+
+---
+
+## 📸 Portfolio Preview
+
+### 🏠 Homepage
+
+![Portfolio Homepage](./assets/portfolio-home.png)
+
+### 🚀 Projects
+
+![Portfolio Projects](./assets/portfolio-projects.png)
+
+🌐 **View the live portfolio:**
+[https://kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app/)
 
 ---
 
@@ -52,7 +67,7 @@ More projects are available on my portfolio and GitHub.
 
 ## 🔗 Connect With Me
 
-* 🌐 **Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app)
+* 🌐 **Portfolio:** [kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app/)
 * 💼 **LinkedIn:** [Kaviraj KR](https://www.linkedin.com/in/kaviraj18)
 * 🐙 **GitHub:** [kaviraj-1718](https://github.com/kaviraj-1718)
 
