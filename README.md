@@ -1,4 +1,4 @@
-# Kaviraj K R — Personal Portfolio
+# Kaviraj KR — Personal Portfolio
 
 Welcome to my personal portfolio repository.
 
@@ -29,17 +29,7 @@ I'm always learning, experimenting, and looking for opportunities to improve my 
 ![Portfolio Projects](./assets/portfolio-projects.png)
 
 🌐 **View the live portfolio:**
-[https://kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app/)
-
----
-
-## 🛠️ Technologies
-
-* **Languages:** Python, JavaScript, Java, C, C++
-* **Web Development:** HTML, CSS, React.js, Next.js, Node.js, Express.js
-* **Databases:** SQL, MongoDB
-* **Machine Learning:** Python, Scikit-learn, XGBoost
-* **Tools:** Git, GitHub, VS Code
+[kaviraj-portfolio.vercel.app](https://kaviraj-portfolio.vercel.app/)
 
 ---
 
